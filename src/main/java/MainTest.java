@@ -8,11 +8,11 @@ import static org.junit.Assert.*;
  */
 public class MainTest {
 
-    private Main main;
+    private Main2 main;
 
     @Before
     public void setUp() throws Exception {
-        main = new Main();
+        main = new Main2();
     }
 
     @Test
